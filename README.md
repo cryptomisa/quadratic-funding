@@ -1,4 +1,4 @@
-# Gitcoin Grants Quadratic Funding Implementation
+# Cryptomisa Grants Quadratic Funding Implementation
 
 ## Quadratic Funding
 
